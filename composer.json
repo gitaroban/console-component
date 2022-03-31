@@ -1,0 +1,20 @@
+{
+    "name": "gitaroban/console-component",
+    "description": "Ajout de fonctionnalites au composant console de Symfony.",
+    "type": "library",
+    "require": {
+        "symfony/console": "^5.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gitaroban\\ConsoleComponent\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "atournayre",
+            "email": "a.tournayre@aroban.com"
+        }
+    ]
+}
