@@ -3,7 +3,8 @@
     "description": "Ajout de fonctionnalites au composant console de Symfony.",
     "type": "library",
     "require": {
-        "symfony/console": "^5.4"
+        "symfony/console": "^5.4",
+        "symfony/stopwatch": "^5.4"
     },
     "license": "MIT",
     "autoload": {
