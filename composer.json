@@ -3,6 +3,7 @@
     "description": "Ajout de fonctionnalites au composant console de Symfony.",
     "type": "library",
     "require": {
+        "php": ">=8.0.17",
         "symfony/console": "^5.4",
         "symfony/stopwatch": "^5.4"
     },
